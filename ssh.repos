@@ -1,0 +1,9 @@
+repositories:
+  src/models_and_worlds:
+    type: git
+    url: git@github.com:rirpc-uav-lab/models_and_worlds.git
+    version: master
+  src/launches:
+    type: git
+    url: git@github.com:rirpc-uav-lab/launches.git
+    version: master
