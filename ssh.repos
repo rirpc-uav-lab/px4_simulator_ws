@@ -5,5 +5,5 @@ repositories:
     version: master
   src/launches:
     type: git
-    url: git@github.com:rirpc-uav-lab/launches.git
+    url: git@github.com:rirpc-uav-lab/px4_sim_launches.git
     version: master
