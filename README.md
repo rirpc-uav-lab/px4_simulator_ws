@@ -1,7 +1,7 @@
 Установка
 
 ```shell
-git clone git@github.com:rirpc-uav-lab/simulator_ws.git
+git clone git@github.com:rirpc-uav-lab/px4_simulator_ws.git
 cd simulator_ws
 vcs import < ssh.repos
 colcon build
