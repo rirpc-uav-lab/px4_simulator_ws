@@ -1,9 +1,9 @@
 repositories:
-  src/models_and_worlds:
+  src/px4_models_and_worlds:
     type: git
     url: git@github.com:rirpc-uav-lab/px4_models_and_worlds.git
     version: master
-  src/launches:
+  src/px4_sim_launches:
     type: git
     url: git@github.com:rirpc-uav-lab/px4_sim_launches.git
     version: master
