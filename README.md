@@ -2,7 +2,7 @@
 
 ```shell
 git clone git@github.com:rirpc-uav-lab/px4_simulator_ws.git
-cd simulator_ws
+cd px4_simulator_ws
 vcs import < ssh.repos
 colcon build
 echo source $(pwd)/install/setup.bash >> ~/.bashrc
