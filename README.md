@@ -35,11 +35,9 @@ sudo apt install ros-humble-mavros-extras
 ```
 8. Установить GeographicLib
 ```bash
-sudo su
+sudo wget https://raw.githubusercontent.com/mavlink/mavros/ros2/mavros/scripts/install_geographiclib_datasets.sh
 
-wget https://raw.githubusercontent.com/mavlink/mavros/ros2/mavros/scripts/install_geographiclib_datasets.sh
-
-. install_geographiclib_datasets.sh
+sudo bash install_geographiclib_datasets.sh
 
 exit
 ```
